@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/imantisociominboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_o_k_m_chahyeonho" height="30" width="40" /></a>
+<a href="https://instagram.com/gmpark.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_o_k_m_chahyeonho" height="30" width="40" /></a>
 </p>
 
 <h2> My tech stack 📚 </h2>
