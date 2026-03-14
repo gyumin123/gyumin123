@@ -7,13 +7,14 @@
 <p align="left">- 👯 I’m looking to collaborate on ...</p>
 <p align="left">- 🤔 I’m looking for help with ...</p>
 <p align="left">- 💬 Ask me about ...</p>
-<p align="left">- 📫 How to reach me: ...</p>
+<p align="left">- 📫 How to reach me: <a href="https://www.gmpark.dev/" target="_blank">www.gmpark.dev</a></p>
 <p align="left">- 😄 Pronouns: ...</p>
 <p align="left">- ⚡ Fun fact: ...</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/gmpark.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_o_k_m_chahyeonho" height="30" width="40" /></a>
+<a href="https://www.gmpark.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" height="30" /></a>
+<a href="https://instagram.com/gmpark.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h2> My tech stack 📚 </h2>
@@ -25,4 +26,3 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
