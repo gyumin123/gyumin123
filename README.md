@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigdwarf160&label=Profile%20views&color=0e75b6&style=flat" alt="bigdwarf160" /> </p>
 
 <p align="left">- 🔭 I’m currently working on ...</p>
-<p align="left">- 🌱 I’m currently learning ...</p>
+<p align="left">- 🌱 I’m currently learning ComputerScience</p> 
 <p align="left">- 👯 I’m looking to collaborate on ...</p>
 <p align="left">- 🤔 I’m looking for help with ...</p>
-<p align="left">- 💬 Ask me about ...</p>
+<p align="left">- 💬 Ask me about krumin@gmail.com</p>
 <p align="left">- 📫 How to reach me: <a href="https://www.gmpark.dev/" target="_blank">www.gmpark.dev</a></p>
 <p align="left">- 😄 Pronouns: ...</p>
 <p align="left">- ⚡ Fun fact: ...</p>
