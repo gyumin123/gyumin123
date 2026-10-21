@@ -19,8 +19,19 @@
 
 <h2> Education 🎓 </h2>
 
-<p align="left">🏫 <strong>Yeungnam University</strong></p>
-<p align="left">👨‍🎓 B.S. in Computer Engineering (Expected Graduation: Feb 2027)</p>
+<h4>🏫 Yeungnam University (영남대학교)</h4>
+<ul>
+  <li>B.S. in Computer Engineering (Expected Graduation: Feb 2027)</li>
+</ul>
+
+<h4>🏫 Korea IT Academy (코리아IT아카데미학원) <sub>Aug 2025 – Mar 2026</sub></h4>
+<ul>
+  <li><strong>Smart Web Application Programming Developer Program A</strong> (스마트웹 응용 프로그래밍 개발자 양성 과정A) · Government-funded</li>
+  <li><strong>Front-end:</strong> HTML, JavaScript, jQuery</li>
+  <li><strong>Back-end:</strong> JSP, SQL</li>
+  <li><strong>Mobile:</strong> Android</li>
+  <li><strong>Scope:</strong> Planning → Design → Implementation → Testing → Deployment → Maintenance of web-based services</li>
+</ul>
 
 <h2> Certifications 📜 </h2>
 
