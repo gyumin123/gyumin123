@@ -19,9 +19,9 @@
 
 <h2> Education 🎓 </h2>
 
-<h4>🏫 Yeungnam University (영남대학교)</h4>
+<h4>🏫 Yeungnam University (영남대학교) <sub>Mar 2020 – Feb 2027 </sub></h4>
 <ul>
-  <li>B.S. in Computer Engineering (Expected Graduation: Feb 2027)</li>
+  <li>B.S. in Computer Engineering</li>
 </ul>
 
 <h4>🏫 Korea IT Academy (코리아IT아카데미학원) <sub>Aug 2025 – Mar 2026</sub></h4>
